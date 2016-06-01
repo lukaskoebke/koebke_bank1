@@ -2,7 +2,8 @@ package at.spengergasse.bank.domain;
 
 public class BankAccount
 {
-private String name;
+private String firstname;
+private String lastname;
 private Localdate birthdate;
 private int id;
 

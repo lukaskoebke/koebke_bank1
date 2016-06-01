@@ -4,5 +4,5 @@ import java.util.*;
 
 public class Bank
 {
-private HashMap accounts;
+private TreeSet accounts;
 }
