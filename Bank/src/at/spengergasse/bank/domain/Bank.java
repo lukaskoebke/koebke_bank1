@@ -4,5 +4,7 @@ import java.util.*;
 
 public class Bank
 {
-private TreeSet accounts;
+private ArrayList accounts;
+private String name;
+>>>>>>> origin/master
 }
