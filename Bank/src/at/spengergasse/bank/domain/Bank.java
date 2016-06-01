@@ -4,5 +4,6 @@ import java.util.*;
 
 public class Bank
 {
-private HashMap accounts;
+private ArrayList accounts;
+private String name;
 }
